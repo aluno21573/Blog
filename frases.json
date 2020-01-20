@@ -1,0 +1,14 @@
+{
+	"anime" : [
+			{"nome": "Fairy Tail", "nº": 3},
+			{"nome": "Inuyasha", "nº": 5},
+			{"nome": "Naruto", "nº": 15}
+	],
+	"anime2": [
+		{"nome": "Dragon Ball", "nº": 7},
+		{"nome": "Blue Exorcist","nº":1},
+		{"nome": "Toradora", "nº":0}
+
+
+	]
+}
